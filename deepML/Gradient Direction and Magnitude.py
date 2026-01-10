@@ -1,3 +1,5 @@
+#https://www.deep-ml.com/problems/308
+
 import numpy as np
 
 def gradient_direction_magnitude(gradient: list) -> dict:
